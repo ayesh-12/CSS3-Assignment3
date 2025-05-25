@@ -1,0 +1,49 @@
+/* section */
+
+
+.menu .section .write .btn {
+       display: block;
+      width: 100%;
+    
+    
+      }
+      .menu .section .write .btn .bt2{
+        margin-top: 15px;
+      }
+      .menu .about  .about2 .img img{
+        width:100px ;
+      }
+       .menu .about .about2border .btn{
+         display: block;
+      width: 100%;
+       
+       }
+      
+    .menu .about .about2border .bt1 {
+        margin: 5px;
+    } 
+    .menu .about .bulid .boxes{
+    padding: 1em 0;
+}
+        .menu .about .bulid .boxes .box1 i{
+
+    font-size: 1em;
+
+}
+.menu .about .bulid .boxes .box1 b{
+    font-size: 2em;
+}
+.menu .about .bulid .boxes .box1 span{
+    font-size: 0.2em;
+}
+
+.contact1{
+    width: 100%;
+}
+
+.contact .form{
+    width: 100%;
+}
+.contact .ct{
+    width: 100%;
+}
