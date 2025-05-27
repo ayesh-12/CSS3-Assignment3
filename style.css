@@ -18,7 +18,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    position: sticky;
+    position: fixed;
     top: 0px;
     left: 0px;
     right: 0px;
@@ -50,6 +50,7 @@
 }
 a:hover{
     cursor: pointer;
+    color: green;
 }
 .menu .icon{
     display: none;
